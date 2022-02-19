@@ -1,12 +1,10 @@
 
 
-layout: default
-title: Welcome.
+Here's an image of a drag racer in action:
 
+![test](photo.jpg)
 
-# I am Natalie Andersson.
-
-Sample text.
+Move along.
 
 
 ---
