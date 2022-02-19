@@ -1,3 +1,11 @@
-# Natalie Andersson
-## UC Berkeley 
-### About this site
+
+layout: home
+title: Welcome.
+---
+
+# I am Natalie Andersson.
+
+Sample text.
+
+---
+---
