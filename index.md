@@ -2,7 +2,7 @@
 
 Here's an image of a drag racer in action:
 
-![test](photo.jpg)
+![heashot](https://github.com/nataliecandersson/nataliecandersson.github.io/blob/main/photo.jpeg)
 
 Move along.
 
