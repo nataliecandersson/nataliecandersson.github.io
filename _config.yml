@@ -21,7 +21,7 @@
 # in the templates via {{ site.myvariable }}.
 
 
-#title: Natalie Andersson
+title: Natalie Andersson
 title-img: /assets/photo.jpeg
 author: Natalie Andersson
 email: natalieandersson@berkeley.edu
