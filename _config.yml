@@ -20,7 +20,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Natalie Andersson
+
+#title: Natalie Andersson
+title-img: /assets/photo.jpeg
+author: Natalie Andersson
 email: natalieandersson@berkeley.edu
 description: >- # this means to ignore newlines until "baseurl:"
   I am a senior studying Industrial Engineering and Operations Research at UC Berkeley. 
@@ -45,8 +48,6 @@ header_pages:
   #- resume.md
 
 #image 
-author:
-  picture: /assets/photo.jpeg
 
 
 # Exclude from processing.
