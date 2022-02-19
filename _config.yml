@@ -36,8 +36,8 @@ plugins:
   - jekyll-redirect-from
 
 # Orders header pages
-#header_pages:
-  #- about.md
+header_pages:
+  - about.md
   #- gratitude.md
   #- stories.md
   #- thoughts.md
