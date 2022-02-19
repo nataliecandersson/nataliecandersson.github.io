@@ -2,9 +2,9 @@
 
 
 <img src="photo.jpeg" align = "left" alt="photo" width="200"/>
-Test image
+#Welcome to my site
 
-![headshot](/assets/photo.jpeg)
+
 
 Move along.
 
