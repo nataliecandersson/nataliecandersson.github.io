@@ -1,7 +1,8 @@
 
 
-Test image 
-<img src="photo.jpeg" alt="photo" width="200"/>
+
+<img src="photo.jpeg" align = "left" alt="photo" width="200"/>
+Test image
 
 ![headshot](/assets/photo.jpeg)
 
