@@ -34,10 +34,18 @@ github_username:  nataliecandersson
 
 # Build settings
 theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "dark"
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-avatar
+
+
+author:
+  name     : "Natalie Andersson"
+  avatar   : "/assets/photo.jpeg"
+  bio      : "My awesome biography constrained to a sentence or two goes here."
+  location : "Somewhere, USA"
 
 # Orders header pages
 header_pages:
