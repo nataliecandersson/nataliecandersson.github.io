@@ -33,7 +33,7 @@ linkedin_username: natandersson
 github_username:  nataliecandersson
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
@@ -48,6 +48,7 @@ header_pages:
   #- resume.md
 
 #image 
+logo: "/assets/photo.jpeg"
 
 
 # Exclude from processing.
