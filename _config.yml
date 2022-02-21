@@ -49,10 +49,10 @@ header_pages:
 
 #image 
 author:
-  name     : "Natalie Andersson"
-  avatar   : "/assets/photo.jpeg"
-  bio      : "My awesome biography constrained to a sentence or two goes here."
-  location : "Somewhere, USA"
+  name : "Natalie Andersson"
+  picture : /assets/photo.jpeg
+  social: 
+    linkedin: natandersson
 
 
 # Exclude from processing.
