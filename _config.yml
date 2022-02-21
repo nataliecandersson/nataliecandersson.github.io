@@ -33,19 +33,11 @@ linkedin_username: natandersson
 github_username:  nataliecandersson
 
 # Build settings
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "dark"
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-avatar
-
-
-author:
-  name     : "Natalie Andersson"
-  avatar   : "/assets/photo.jpeg"
-  bio      : "My awesome biography constrained to a sentence or two goes here."
-  location : "Somewhere, USA"
 
 # Orders header pages
 header_pages:
@@ -56,7 +48,11 @@ header_pages:
   #- resume.md
 
 #image 
-logo: "/assets/photo.jpeg"
+author:
+  name     : "Natalie Andersson"
+  avatar   : "/assets/photo.jpeg"
+  bio      : "My awesome biography constrained to a sentence or two goes here."
+  location : "Somewhere, USA"
 
 
 # Exclude from processing.
