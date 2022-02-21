@@ -26,6 +26,7 @@ logo: /assets/photo.jpeg
 author: Natalie Andersson
 email: natalieandersson@berkeley.edu
 description: >- # this means to ignore newlines until "baseurl:"
+  UC Berkeley
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: natandersson
@@ -33,11 +34,12 @@ github_username:  nataliecandersson
 
 # Build settings
 theme: jekyll-theme-minimal
+color_scheme: dark
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-avatar
-color_scheme: dark
+
 
 
 # Orders header pages
@@ -52,7 +54,9 @@ footer_content: "Copyright &copy; 2022 Natalie Andersson. Distributed by an <a h
 
 #image 
 author:
-  name : "Natalie Andersson"
+  name : <Natalie> <Andersson>
+  email: <natalieandersson@berkeley.edu>
+  about: UC Berkeley IEOR
   picture : /assets/photo.jpeg
   social: 
     linkedin: natandersson
