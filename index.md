@@ -13,4 +13,5 @@
 
 #### I am also a grader for [IEOR 160](https://lavaei.ieor.berkeley.edu/Course_IEOR160_Spring_2022.html), a course on nonlinear and discrete optimization taught by Professor Javad Lavaei.  
 
-#### Previosuly, I was a logistics systems engineering intern at [Zoox](zoox.com) for the summer of 2021 and a marketing analytics intern at [thredUP](thredup.com) for the summer of 2020.
+#### Previosuly, I was a logistics systems engineering intern at [Zoox](https://zoox.com) for the summer of 2021 and a marketing analytics intern at [thredUP](https://thredup.com) for the summer of 2020.
+
