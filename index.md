@@ -15,3 +15,5 @@
 
 #### Previosuly, I was a logistics systems engineering intern at [Zoox](https://zoox.com) for the summer of 2021 and a marketing analytics intern at [thredUP](https://thredup.com) for the summer of 2020.
 
+#### Outside of school, I enjoy playing soccer, cross-country skiing, and running. 
+
