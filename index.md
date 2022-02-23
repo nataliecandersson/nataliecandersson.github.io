@@ -6,8 +6,8 @@
 
 #### I have also worked on several other projects that have guided me to my current interests:
 - [Optimizing airline overselling using simulation optimization](https://github.com/nataliecandersson/nataliecandersson.github.io/blob/main/files/IEOR_174_Project_Report.pdf), with Lucie Chen and Varsha Nekkanti (advised by Professor Zeyu Zheng)
-- Applying decision analysis techniques to determine whether UC Berkeley can have in person instruction Fall 2021, with Lucie Chen, Samantha Tito, and Jihee Choo
-- Evaluating the accessibility of congressional websites with Connor Lin, Elif Citoglu (advised by Ph.D student Emma Lurie)
+- Applying decision analysis techniques to determine whether UC Berkeley can have in person instruction Fall 2021, with Lucie Chen, Samantha Torres, and Jihee Choo
+- Evaluating the accessibility of congressional websites with Connor Lin and Elif Citoglu (advised by Ph.D student Emma Lurie)
 
 #### My coursework has centered around stochastic processes, simulation, mathematical programming (linear, integer, mixed-integer), revenue management, and supply chains.
 
