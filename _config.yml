@@ -26,7 +26,7 @@ logo: /assets/photo.jpeg
 author: Natalie Andersson
 email: natalieandersson@berkeley.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  UC Berkeley Industrial Engineering and Operations Research
+  natalieandersson AT berkeley.edu
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: natandersson
