@@ -34,7 +34,8 @@ github_username:  nataliecandersson
 
 # Build settings
 theme: minima
-color_scheme: dark
+minima:
+  skin: dark
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
