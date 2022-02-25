@@ -1,7 +1,6 @@
 # Welcome!
 
-
-![Headshot](/assets/photo.jpeg)
+<img align="right" src="/assets/photo.jpeg">
 
 ### I am currently an undergraduate student at UC Berkeley studying [Industrial Engineering and Operations Research (IEOR)](https://ieor.berkeley.edu). My research interests lie in matching markets and mechanism design for the public sector. I hope to pursue a Ph.D. in this field in the near future. 
 
