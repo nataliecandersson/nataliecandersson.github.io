@@ -33,7 +33,7 @@ linkedin_username: natandersson
 github_username:  nataliecandersson
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 color_scheme: dark
 plugins:
   - jekyll-feed
@@ -43,7 +43,7 @@ plugins:
 
 
 # Orders header pages
-header_pages:
+#header_pages:
   #- about.md
   #- gratitude.md
   #- stories.md
