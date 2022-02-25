@@ -53,13 +53,7 @@ plugins:
 footer_content: "Copyright &copy; 2022 Natalie Andersson. Distributed by an <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license.</a>"
 
 #image 
-author:
-  name : <Natalie> <Andersson>
-  email: <natalieandersson@berkeley.edu>
-  about: UC Berkeley IEOR
-  picture : /assets/photo.jpeg
-  social: 
-    linkedin_username: natandersson
+
 
 
 # Exclude from processing.
