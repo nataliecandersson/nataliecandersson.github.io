@@ -4,6 +4,9 @@ title: Contact
 permalink: /contact/
 ---
 
+- Email: natalieandersson AT berkeley.edu
+
+
 From a young age I have had an interest in the systems that move things from A to B, 
 
 I speak Spanish and Swedish fluently 
