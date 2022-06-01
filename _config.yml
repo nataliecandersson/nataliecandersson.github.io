@@ -25,8 +25,8 @@ title: Natalie Andersson
 logo: /assets/photo.jpeg
 author: Natalie Andersson
 email: natalieandersson@berkeley.edu
-description: >- # this means to ignore newlines until "baseurl:"
-  UC Berkeley Industrial Engineering and Operations Research
+#description: >- # this means to ignore newlines until "baseurl:"
+  #UC Berkeley Industrial Engineering and Operations Research
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: natandersson
@@ -66,6 +66,8 @@ footer_content: "Copyright &copy; 2022 Natalie Andersson. Distributed by an <a h
 #
 exclude:
   -README.md
+  -about.md
+  -contact.md
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
