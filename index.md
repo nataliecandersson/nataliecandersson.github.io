@@ -1,6 +1,6 @@
 <img align="right" src="/assets/photo.jpeg">
 
-### I graduated in May 2022 with a bachelors in [Industrial Engineering and Operations Research (IEOR)](https://ieor.berkeley.edu) from UC Berkeley. My research interests lie in engineering societal systems and resource allocation problems aimed at the public sector. I like tackling problems that have the opportunity to support marginalized communities. I am applying to Ph.D. programs in Fall 2022, with the hope of beginning a Ph.D. program in Fall 2023.
+### I graduated in May 2022 with a bachelors in [Industrial Engineering and Operations Research (IEOR)](https://ieor.berkeley.edu) and a minor in Spanish from UC Berkeley. My research interests lie in engineering societal systems and resource allocation problems aimed at the public sector. I like tackling problems that have the opportunity to support marginalized communities. I am applying to Ph.D. programs in Fall 2022, with the hope of beginning a Ph.D. program in Fall 2023.
 
 #### My current research focuses on the distribution of housing subsidy vouchers, advised by Berkeley IEOR [Professor Zeyu Zheng](https://zheng.ieor.berkeley.edu/).
 
